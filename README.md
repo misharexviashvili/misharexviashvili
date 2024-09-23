@@ -1,5 +1,34 @@
 # 💫 About Me:
-I'm Currently Working On<br>Mody and Mody Driver - React Native Apps<br>I am actively developing two React Native apps, Mody and Mody Driver. These apps aim to provide a seamless experience for users and drivers in the transportation industry. Key features being implemented include:<br><br>User registration and authentication<br>Real-time location tracking<br>Interactive maps and navigation<br>In-app messaging and notifications<br>I'm dedicated to creating a user-friendly and reliable transportation solution. Stay tuned for future updates and exciting new features!<br><br>Back-end Project - Node.js, Express, MongoDB, Mongoose, Pug<br>In addition to the React Native apps, I'm also working on a back-end project utilizing Node.js, Express, MongoDB, Mongoose, and Pug. This project focuses on building a robust and scalable server-side application. Key aspects of the project include:<br><br>RESTful API development<br>Database modeling and management using MongoDB and Mongoose<br>Templating with Pug for dynamic server-side rendering<br>Authentication and authorization functionality<br>Integration of third-party services and APIs<br>I'm actively refining the back-end architecture and implementing various features to ensure a reliable and efficient server-side solution. Exciting updates and improvements are on the way!
+I'm Currently Working On
+
+MyDispatcher – React Native App
+I am actively developing MyDispatcher, a React Native app aimed at providing transit operators and drivers with a seamless experience. Key features of the app include:
+
+User registration and authentication
+Real-time location tracking using Mapbox
+Interactive maps and navigation
+Document management and access
+Financial tracking for drivers (earnings, orders, and finances)
+I am dedicated to optimizing performance and creating a user-friendly, reliable solution for the transportation industry. Future updates will continue to enhance the app's functionality and user experience.
+
+Past Work
+
+Mody and Mody Driver – React Native Apps
+Previously, I developed two React Native apps, Mody and Mody Driver, focused on improving the transportation experience for users and drivers. Key features included:
+
+User registration and authentication
+Real-time location tracking using Mapbox
+Interactive maps and navigation
+In-app messaging and notifications
+Back-End Project – Node.js, Express, MongoDB, Mongoose, Pug
+In addition to my mobile app development work, I have worked on a back-end project utilizing Node.js, Express, MongoDB, Mongoose, and Pug. The project focused on building a robust and scalable server-side application, with key aspects including:
+
+RESTful API development
+Database modeling and management using MongoDB and Mongoose
+Templating with Pug for dynamic server-side rendering
+Authentication and authorization functionality
+Integration of third-party services and APIs
+I continuously refined the back-end architecture, ensuring that the system remains reliable, efficient, and scalable.
 
 ## 🔗 Social
 
